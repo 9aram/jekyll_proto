@@ -1,20 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Contact
+subtitle: Contact
 ---
+###Contact 
 
 My name is Garam Lee. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+You can email me or find me on Twitter if you want to get in touch. As I said, I love meeting new people so don't hesitate to send a message!
 
-What else do you need?
+My fulltime job is consulting work in R and Shiny, so feel free to get in touch if you want to discuss potential projects, your Shiny needs, or need any paid help.
 
-### My story
+If you'd like to set up a meeting with me, click here to schedule a meeting based on your availability.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
-
-### Education
-### Address
-### Certificate
+You can also send me a quick message using the form below:
