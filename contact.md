@@ -3,6 +3,7 @@ layout: page
 title: Contact
 subtitle: Contact
 ---
+
 ###Contact 
 
 My name is Garam Lee. I have the following qualities:
