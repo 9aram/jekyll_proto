@@ -19,8 +19,8 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
-  Contact: "contact"
   Project: "project"
+  Contact: "contact"
 
 # --- Logo --- #
 
