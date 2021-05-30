@@ -18,3 +18,8 @@ To be honest, I'm having some trouble remembering right now, so why don't you ju
 ### Education
 ### Address
 ### Certificate
+
+<p class="about-text">
+<span class="fa fa-file-alt about-icon"></span>
+The <strong><a href="/projects">projects</a></strong> page is a nice place to see some of my work, but you can also view my (somewhat outdated) <a href="/resume">resume</a>. 
+</p>
