@@ -1,5 +1,5 @@
 ---
 layout: project
-title: GARAM LEE
-subtitle: project
+title: Project
+subtitle: S
 ---
