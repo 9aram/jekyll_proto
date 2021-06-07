@@ -36,12 +36,12 @@ layout: page
 
     <a href="{{ post.url | absolute_url }}">
       <h2 class="post-title">{{ post.title }}</h2>
-
       {% if post.subtitle %}
         <h3 class="post-subtitle">
         {{ post.subtitle }}
         </h3>
       {% endif %}
+
     </a>
 
     <p class="post-meta">
@@ -74,8 +74,9 @@ layout: page
       {% endfor %}
       {% assign excerpt_word_count = post.excerpt | number_of_words %}
       {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
-      <!--<a href="{{ post.url | absolute_url }}" class="post-read-more">[Read More]</a>-->
-      <a href="{{ post.file_url }}" class="post-read-more">[Read More]</a>
+      <a href="..{{ post.file_url }}" class="post-read-more">[Read More]</a>
+      <a href="https://9aram.github.io/portfolio_jekyll/resume" class="post-read-more">[Read More]</a>
+
       {% endif %}
     </div>
     {% endunless %}
